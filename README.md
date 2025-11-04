@@ -5,8 +5,7 @@
 This Power BI project explores **Google Play Store app data** to uncover trends in **ratings, installs, pricing, and user engagement**.  
 The goal is to identify the key factors influencing **app popularity** and **user satisfaction**, helping businesses make data-driven marketing and development decisions.  
 
- **Tool Used:** Microsoft Power BI  
- **Dataset:** "C:\Users\Sathwika chowdary\Downloads\googleplaystore.csv\google playstore analysis.pbix"  
+ **Tool Used:** Microsoft Power BI   
 
 ##  Dataset Description  
 The dataset contains details about Android apps available on the Google Play Store.  
